@@ -1,21 +1,19 @@
 # Hey, I'm bippy 👋
 
-I'm a designer and developer based in New Jersey, USA.
+I'm a **designer and developer** based in New Jersey, USA
 
-## What I’m up to 🔧:
-- **Edgar**, a reimagined Creative Media Partner 🎨.
-- **Perch**, **Talon** 🚀.
-- Learning robotics and electrical engineering 💡.
+# What I’m up to 🔧
+- **Edgar**, a reimagined Creative Media Partner 🎨
+- **Perch**, **Talon** 🚀
+- Learning robotics and electrical engineering 💡
 
-## Skills & Tools 🛠:
+# Skills & Tools 🛠:
 - **Languages**: English
 - **Design**: Adobe Suite, Blender, OBS, GWD
 - **Dev**: JavaScript, C++
 
-## Reach out ✉️:
-- You can reach me at @the_bipolaroid on X or at 177edgar.com.
-
----
+# Reach out ✉️:
+- You can reach me at **@the_bipolaroid on X** or at **177edgar.com**.
 
 *Let's fly closer ☀️*
 
