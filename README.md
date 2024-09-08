@@ -7,12 +7,12 @@ I'm a **designer and developer** based in New Jersey, USA
 - **Perch**, **Talon** 🚀
 - Learning robotics and electrical engineering 💡
 
-# Skills & Tools 🛠:
+# Skills & Tools 🛠
 - **Languages**: English
 - **Design**: Adobe Suite, Blender, OBS, GWD
 - **Dev**: JavaScript, C++
 
-# Reach out ✉️:
+# Reach out ✉️
 - You can reach me at **@the_bipolaroid on X** or at **177edgar.com**.
 
 *Let's fly closer ☀️*
