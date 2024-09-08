@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @bippolaroid!
-- 👀 I’m interested in design, development, and games.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on anything that I won't destroy and will learn from.
-- 📫 How to reach me bippolaroid@proton.me
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have 2 webbed toes.
+# Hey, I'm bippy 👋
+
+I'm a designer and developer based in New Jersey, USA.
+
+## What I’m up to 🔧:
+- **Edgar**, a reimagined Creative Media Partner 🎨.
+- **Perch**, **Talon** 🚀.
+- Learning robotics and electrical engineering 💡.
+
+## Skills & Tools 🛠:
+- **Languages**: English
+- **Design**: Adobe Suite, Blender, OBS, GWD
+- **Dev**: JavaScript, C++
+
+## Reach out ✉️:
+- You can reach me at @the_bipolaroid on X or at 177edgar.com.
+
+---
+
+*Let's fly closer ☀️*
+
 
 <!---
 bippolaroid/bippolaroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
