@@ -10,7 +10,7 @@ I'm a **designer and developer** based in New Jersey, USA
 # Skills & Tools 🛠
 - **Languages**: English
 - **Design**: Adobe Suite, Blender, OBS, GWD
-- **Dev**: JavaScript, C++
+- **Dev**: JavaScript, C++, Rust
 
 # Reach out ✉️
 - You can reach me at **@the_bipolaroid on X** or at **177edgar.com**.
