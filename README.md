@@ -4,7 +4,7 @@ I'm a **designer and developer** based in New Jersey, USA
 
 # What I’m up to 🔧
 - **Edgar**, a reimagined Creative Media Partner 🎨
-- **Perch**, **Talon** 🚀
+- **indigo suite** 🚀
 - Learning robotics and electrical engineering 💡
 
 # Skills & Tools 🛠
