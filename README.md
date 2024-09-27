@@ -1,21 +1,16 @@
-# Hey, I'm bippy 👋
+# bippy 🚬
+40.7178° N, 74.0431° W
 
-I'm a **designer and developer** based in New Jersey, USA
-
-# What I’m up to 🔧
-- **Edgar**, a reimagined Creative Media Partner 🎨
-- **indigo suite** 🚀
-- Learning robotics and electrical engineering 💡
-
-# Skills & Tools 🛠
-- **Languages**: English
-- **Design**: Adobe Suite, Blender, OBS, GWD
-- **Dev**: JavaScript, C++, Rust
+# 🚀
+- **Edgar**, full-scope creative & marketing partner.
+- **Indigo**, portable & encrypted headless cms system.
+- **DoitTools**, custom context menu options (Rust study)
+- **Cap**, AI-content id system
 
 # Reach out ✉️
 - You can reach me at **@the_bipolaroid on X** or at **177edgar.com**.
 
-*Let's fly closer ☀️*
+*I want to fly closer ☀️*
 
 
 <!---
