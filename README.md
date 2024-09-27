@@ -7,8 +7,9 @@
 - **DoitTools**, custom context menu options (Rust study)
 - **Cap**, AI-content id system
 
-# Reach out ✉️
-- You can reach me at **@the_bipolaroid on X** or at **177edgar.com**.
+# ✉️
+- **@the_bipolaroid on X**
+- **177edgar.com**.
 
 *I want to fly closer ☀️*
 
