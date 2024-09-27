@@ -8,8 +8,8 @@
 - **Cap**, AI-content id system
 
 # ✉️
-- **@the_bipolaroid on X**
-- **177edgar.com**.
+- **@the_bipolaroid** on X
+- **177edgar.com**
 
 *I want to fly closer ☀️*
 
