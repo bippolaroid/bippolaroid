@@ -6,7 +6,7 @@
 - **Indigo**
 
 # ✉️
-- **@the_bipolaroid** on X
+- **@bippolaroid** on X
 - **177edgar.com**
 
 *I want to fly closer ☀️*
