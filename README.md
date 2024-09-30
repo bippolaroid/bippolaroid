@@ -3,9 +3,7 @@
 
 # 🚀
 - **Edgar**, full-scope creative & marketing partner.
-- **Indigo**, portable & encrypted headless cms system.
-- **DoitTools**, custom context menu options (Rust study)
-- **Cap**, AI-content id system
+- **Indigo**
 
 # ✉️
 - **@the_bipolaroid** on X
