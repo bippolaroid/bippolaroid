@@ -2,9 +2,9 @@
 40.7178° N, 74.0431° W
 
 # 🚀
-- **Edgar**, full-scope creative & marketing partner.
-- **Beacon**
-- **Study:** Rust, AI/ML, NN/RL
+- **Edgar -** full-scope creative & marketing partner **(OPEN FOR CLIENTS)**
+- **Beacon -** CMS
+- **Studying:** Rust, AI/ML, NN/RL
 
 # ✉️
 - **@bippolaroid** on X
