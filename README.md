@@ -3,11 +3,13 @@
 
 # 🚀
 - **Edgar**, full-scope creative & marketing partner.
-- **Indigo**
+- **Beacon**
+- **Study:** Rust, AI/ML, NN/RL
 
 # ✉️
 - **@bippolaroid** on X
 - **177edgar.com**
+- **bippolaroid@proton.me**
 
 *I want to fly closer ☀️*
 
