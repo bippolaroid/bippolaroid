@@ -9,7 +9,7 @@ Jersey City, NJ
 
 **Need a creative & marketing package for your business? I'm open for clients!**
 
-**https://www.177edgar.com**
+**https://177edgar.com**
 
 
 # 🚀
