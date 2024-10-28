@@ -1,15 +1,25 @@
 # bippy 🚬
+*Creative Director & Developer*
+
+# 🗺️
 40.7178° N, 74.0431° W
 
+**Need a creative & marketing package for your business? I'm open for clients!**
+
+https://www.177edgar.com
+
+
 # 🚀
-- **Edgar -** full-scope creative & marketing partner **(OPEN FOR CLIENTS)**
-- **Beacon -** CMS
-- **Studying:** Rust, AI/ML, NN/RL
+- **Edgar -** full-scope creative & marketing partner
+- **Bismuth -** small business tools *(wip)*
+- **Studies:** ASM/C, Rust, AGI, & IoT
+- 
 
 # ✉️
 - **@bippolaroid** on X
 - **177edgar.com**
 - **bippolaroid@proton.me**
+
 
 *I want to fly closer ☀️*
 
