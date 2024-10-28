@@ -1,6 +1,7 @@
 # bippy 🚬
 *Creative Director & Developer*
 
+
 # 🗺️
 40.7178° N, 74.0431° W
 
