@@ -15,7 +15,7 @@ Jersey City, NJ
 # 🚀
 - **Edgar -** full-scope creative & marketing partner
 - **Bismuth -** small business tools *(wip)*
-- **Studies:** ASM/C, Rust, AGI, & IoT
+- **Studies:** ASM/C, Rust, AGI, IoT
   
 
 # ✉️
