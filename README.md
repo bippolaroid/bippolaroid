@@ -24,7 +24,11 @@ Jersey City, NJ
 - **bippolaroid@proton.me**
 
 
-*I want to fly closer ☀️*
+
+
+
+
+*I want to get closer  🚀☀️*
 
 
 <!---
