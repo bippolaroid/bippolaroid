@@ -9,7 +9,7 @@ Jersey City, NJ
 
 **Need a creative & marketing package for your business? I'm open for clients!**
 
-https://www.177edgar.com
+**https://www.177edgar.com**
 
 
 # 🚀
@@ -19,8 +19,8 @@ https://www.177edgar.com
   
 
 # ✉️
-- **@bippolaroid** on X
-- **177edgar.com**
+- **https://x.com/bippolaroid**
+- **https://177edgar.com**
 - **bippolaroid@proton.me**
 
 
