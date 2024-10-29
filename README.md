@@ -7,7 +7,7 @@ Jersey City, NJ
 
 40.7178° N, 74.0431° W
 
-**Need a creative & marketing package for your business? I'm open for clients!**
+**Need creative & marketing for your business? We're open for work!**
 
 **https://177edgar.com**
 
