@@ -1,5 +1,5 @@
 # bippy 🚬
-*Creative Director & Developer*
+*Creative Director & Web Developer*
 
 
 # 🗺️
