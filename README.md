@@ -1,5 +1,5 @@
 # bippy 🚬
-*Creative Director & Developer*
+*Designer & Developer*
 
 
 # 🗺️
@@ -7,15 +7,15 @@ Jersey City, NJ
 
 40.7178° N, 74.0431° W
 
-**Need creative & marketing for your business? We're open for work!**
+**Open to clients needing design, filming/editing, marketing, or related services.**
 
 **https://177edgar.com**
 
 
 # 🚀
-- **Edgar -** full-scope creative & marketing partner
-- **Bismuth -** small business tools *(wip)*
-- **Studies:** ASM/C, Rust, AGI, IoT
+- **Edgar -** creative & marketing partner
+- **Blackbox -** business portal *(wip)*
+- **Studies:** AI/IoT, wearables, JS, Rust (btw)
   
 
 # ✉️
@@ -23,13 +23,7 @@ Jersey City, NJ
 - **https://177edgar.com**
 - **bippolaroid@proton.me**
 
-
-
-
-
-
-*I want to get closer  🚀☀️*
-
+♋
 
 <!---
 bippolaroid/bippolaroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
