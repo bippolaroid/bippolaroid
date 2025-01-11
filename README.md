@@ -14,8 +14,8 @@ Jersey City, NJ
 
 # 🚀
 - **Edgar -** creative & marketing partner
-- **Blackbox -** business portal *(wip)*
-- **Studies:** AI/IoT, wearables, JS, Rust (btw)
+- **name_pending -** data portal *(wip)*
+- **Studies:** AI/IoT, JS, Rust (btw)
   
 
 # ✉️
