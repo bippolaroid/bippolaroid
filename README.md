@@ -1,5 +1,5 @@
 # bippy 🚬
-*Design Engineer*
+*Designer & Developer*
 
 
 # 🗺️
