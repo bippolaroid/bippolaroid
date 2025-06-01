@@ -1,5 +1,5 @@
 # bippy 🚬
-*Designer & Developer*
+*Design Engineer*
 
 
 # 🗺️
@@ -7,18 +7,20 @@ Jersey City, NJ
 
 40.7178° N, 74.0431° W
 
-**Open to clients needing design, filming/editing, marketing, or related services.**
+**Open to clients for brand and web design, social and digital marketing, editing, or related services.**
 
 **https://177edgar.com**
 
+**https://mikeangelo.art/**
 
 # 🚀
 - **Edgar -** creative & marketing partner
-- **name_pending -** data portal *(wip)*
+- **Folio -** Localized CMS with S2 compatibility
 - **Studies:** AI/IoT, JS, Rust (btw)
   
 
 # ✉️
+- **https://mikeangelo.art/**
 - **https://x.com/bippolaroid**
 - **https://177edgar.com**
 - **bippolaroid@proton.me**
