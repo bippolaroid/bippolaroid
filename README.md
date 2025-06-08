@@ -1,5 +1,5 @@
 # bippy 🚬
-*Designer & Developer*
+*Designer & Web Developer*
 
 
 # 🗺️
