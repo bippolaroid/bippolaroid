@@ -9,8 +9,6 @@ Jersey City, NJ
 
 **Open to clients for brand and web design, social and digital marketing, editing, or related services.**
 
-**https://177edgar.com**
-
 **https://mikeangelo.art/**
 
 # 🚀
@@ -22,7 +20,6 @@ Jersey City, NJ
 # ✉️
 - **https://mikeangelo.art/**
 - **https://x.com/bippolaroid**
-- **https://177edgar.com**
 - **bippolaroid@proton.me**
 
 ♋
